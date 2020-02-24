@@ -274,12 +274,12 @@ footer {
 
 /* START COMPARISON TABLE STYLES */
 #comparetable {
-  margin: 10px 0 0 3.7%;
+  margin: 0;
 }
 
 @media screen and (min-width: 800px) {
 #comparetable {
- max-width: 96%;
+ max-width: 100%;
  table-layout: fixed;
 }
 }
